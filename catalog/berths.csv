@@ -1,0 +1,5 @@
+berth_id,terminal,max_weight_tonnes,requires_clearance
+B-01,Orion Terminal,12.5,YES
+B-02,Harbor Works,20.0,NO
+B-03,Canal Quay,8.0,YES
+B-04,Delta Pier,15.0,NO
