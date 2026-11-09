@@ -1,0 +1,5 @@
+berth_id,terminal,valid_inspections,overweight_inspections,clearance_holds,flagged_inspections,status
+B-01,Orion Terminal,2,1,1,2,BLOCKED
+B-04,Delta Pier,2,1,0,1,BLOCKED
+B-03,Canal Quay,2,0,1,1,REVIEW
+B-02,Harbor Works,1,0,0,0,CLEAR
